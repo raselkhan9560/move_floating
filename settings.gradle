@@ -1,0 +1,3 @@
+include ':MoveFloating'
+include ':app'
+rootProject.name = "Floating"
